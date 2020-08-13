@@ -55,15 +55,6 @@ body {
   grid-gap: 10px;
 }
 
-.calendar__item {
-  text-align: center;
-  height: 50px;
-}
-
-.calendar__item:hover {
-  cursor: pointer;
-}
-
 .calendar__month,
 .calendar__year {
   padding: 0.5em 1em;
